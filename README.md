@@ -11,7 +11,7 @@
   3. Debes iniciar sesión. Para ello tienes dos opciones:
   
     - Puedes acceder con tu cuenta de gmail.
-    - Puedes acceder con tu cuenta coorporativa pero antes deberás crear (si no lo has hecho ya) una cuenta de Google asociada a tu mail @axa.es desde https://accounts.google.com/signup/v2/webcreateaccount?flowName=GlifWebSignIn&flowEntry=SignUp Esto te permitirá utilizar servicios de google con tu cuenta de email de axa.
+    - Puedes acceder con tu cuenta coorporativa pero antes deberás crear (si no la tienes ya) una cuenta de Google asociada a tu mail @axa.es desde https://accounts.google.com/signup/v2/webcreateaccount?flowName=GlifWebSignIn&flowEntry=SignUp Esto te permitirá utilizar servicios de google con tu cuenta de email de axa.
     
   4. Ya solo queda subir los ficheros! Para ello debemos descomprimir el zip en nuestro portátil y:
   
