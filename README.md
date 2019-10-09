@@ -1,7 +1,5 @@
 # learning-week
 
-Pasos:
-
   1. Descarga el zip con todos los contenidos del curso (xxxx.zip). En él encontrarás:
   
     - Los notebooks de jupyter con los que vamos a trabajar (ficheros .ipynb).
