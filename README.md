@@ -2,9 +2,8 @@
 
   1. Descarga el zip con todos los contenidos del curso (xxxx.zip). En él encontrarás:
   
-    - Los notebooks de jupyter con los que vamos a trabajar (ficheros .ipynb).
-    - Los datos con los que vamos a trabajar (ficheros .csv)
-    - Scripts auxiliares necesarios para el taller (ficheros .py)
+    - Los notebooks de jupyter con los que vamos a trabajar (exploratory_prep.ipynb y xxxx.ipynb).
+    - Los datos con los que vamos a trabajar (ficheros telco.csv y xxxx.csv)
     
   2. Accedemos a https://colab.research.google.com/notebooks/welcome.ipynb
   
