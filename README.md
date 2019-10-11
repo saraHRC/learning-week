@@ -1,4 +1,4 @@
-# learning-week
+# Reteniendo a los clientes con Machine Learning
 
   1. Descarga el zip con todos los contenidos del curso (xxxx.zip). En él encontrarás:
   
