@@ -1,9 +1,9 @@
 # Reteniendo a los clientes con Machine Learning
 
-  1. Descarga el zip con todos los contenidos del curso (xxxx.zip). En él encontrarás:
+  1. Descarga el zip con todos los contenidos del curso (learning_week_ML_materiales.zip). En él encontrarás:
   
-    - Los notebooks de jupyter con los que vamos a trabajar (exploratory_prep.ipynb y xxxx.ipynb).
-    - Los datos con los que vamos a trabajar (ficheros telco.csv y xxxx.csv)
+    - Los notebooks de jupyter con los que vamos a trabajar (exploratory_prep.ipynb y Churn3_Ejercicios.ipynb).
+    - Los datos con los que vamos a trabajar (ficheros telco.csv y TELCO1.csv)
     
   2. Accedemos a https://colab.research.google.com/notebooks/welcome.ipynb
   
